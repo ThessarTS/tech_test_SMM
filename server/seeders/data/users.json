@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Agus",
+        "NIK": "001.123.1111",
+        "department": "Mercerize"
+    },
+    {
+        "name": "Budi",
+        "NIK": "001.123.2222",
+        "department": "Dryer"
+    },
+    {
+        "name": "Charlie",
+        "NIK": "001.123.3333",
+        "department": "Callender"
+    },
+    {
+        "name": "Damar",
+        "NIK": "001.123.4444",
+        "department": "Finishing"
+    },
+    {
+        "name": "Engkus",
+        "NIK": "001.123.5555",
+        "department": "Mercerize"
+    },
+    {
+        "name": "Fauzan",
+        "NIK": "001.123.6666",
+        "department": "Dryer"
+    },
+    {
+        "name": "Ganang",
+        "NIK": "001.123.7777",
+        "department": "Callender"
+    },
+    {
+        "name": "Handhy",
+        "NIK": "001.123.8888",
+        "department": "Finishing"
+    },
+    {
+        "name": "Imannuel",
+        "NIK": "001.123.9999",
+        "department": "Mercerize"
+    },
+    {
+        "name": "Jammal",
+        "NIK": "001.123.1010",
+        "department": "Dryer"
+    }
+]

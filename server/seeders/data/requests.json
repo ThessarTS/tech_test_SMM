@@ -1,0 +1,42 @@
+[
+    {
+        "status": "approved",
+        "UserId": 1
+    },
+    {
+        "status": "approved",
+        "UserId": 2
+    },
+    {
+        "status": "rejected",
+        "UserId": 3
+    },
+    {
+        "status": "approved",
+        "UserId": 1
+    },
+    {
+        "status": "approved",
+        "UserId": 3
+    },
+    {
+        "status": "requested",
+        "UserId": 4
+    },
+    {
+        "status": "requested",
+        "UserId": 5
+    },
+    {
+        "status": "requested",
+        "UserId": 6
+    },
+    {
+        "status": "requested",
+        "UserId": 5
+    },
+    {
+        "status": "requested",
+        "UserId": 8
+    }
+]

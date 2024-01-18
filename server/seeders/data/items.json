@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Barang-01",
+        "unit": "pcs",
+        "location": "L1-R1A",
+        "stock": 200
+    },
+    {
+        "name": "Barang-02",
+        "unit": "pack",
+        "location": "L1-R1B",
+        "stock": 300
+    },
+    {
+        "name": "Barang-03",
+        "unit": "box",
+        "location": "L1-R1C",
+        "stock": 500
+    },
+    {
+        "name": "Barang-04",
+        "unit": "kg",
+        "location": "L1-R1D",
+        "stock": 5000
+    },
+    {
+        "name": "Barang-05",
+        "unit": "rim",
+        "location": "L1-R1E",
+        "stock": 14
+    },
+    {
+        "name": "Barang-06",
+        "unit": "meter",
+        "location": "L1-R2A",
+        "stock": 1000
+    },
+    {
+        "name": "Barang-07",
+        "unit": "pcs",
+        "location": "L1-R3A",
+        "stock": 900
+    },
+    {
+        "name": "Barang-08",
+        "unit": "pcs",
+        "location": "L1-R4A",
+        "stock": 100
+    },
+    {
+        "name": "Barang-09",
+        "unit": "pack",
+        "location": "L1-R5A",
+        "stock": 500
+    },
+    {
+        "name": "Barang-10",
+        "unit": "box",
+        "location": "L1-R6A",
+        "stock": 30
+    }
+]
